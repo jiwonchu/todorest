@@ -32,19 +32,19 @@
     },
     {
       "subject": "오늘의 점심은~~~~",
-      "complete": false,
+      "complete": true,
       "body": "마라탕dd",
       "id": 9
     },
     {
       "subject": "d",
-      "complete": false,
+      "complete": true,
       "body": "dd",
       "id": 10
     },
     {
       "subject": "d",
-      "complete": false,
+      "complete": true,
       "body": "d",
       "id": 11
     },
@@ -53,6 +53,12 @@
       "complete": false,
       "body": "d",
       "id": 12
+    },
+    {
+      "subject": "ㅇ",
+      "complete": false,
+      "body": "ㅇㅇ",
+      "id": 13
     }
   ]
 }
